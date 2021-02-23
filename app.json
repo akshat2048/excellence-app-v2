@@ -1,0 +1,12 @@
+{
+  "name": "excellence-app",
+  "displayName": "excellence-app",
+  "expo": {
+    "name": "excellence-app",
+    "slug": "excellence-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
